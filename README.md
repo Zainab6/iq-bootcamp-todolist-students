@@ -23,6 +23,7 @@ These requirements will basically update each version and you will add to the wo
 - user should be able to select a deadline date for the task which is also a required `input`.
 - user should be able to use the Tab key to jump from one input to the next one.
 - a `button` that when clicked performs the action of adding a new `li` item to a todo list `ul`.
+- empty the input fields after adding the task to the list.
 - you will have a list of items that each item should display the title and deadline date of the task.
 
 #### Version 1 Styling requirements (Homework)
