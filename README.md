@@ -25,6 +25,7 @@ These requirements will basically update each version and you will add to the wo
 - a `button` that when clicked performs the action of adding a new `li` item to a todo list `ul`.
 - empty the input fields after adding the task to the list.
 - you will have a list of items that each item should display the title and deadline date of the task.
+- show a text if there is no tasks informing the user about that.
 
 #### Version 1 Styling requirements (Homework)
 
