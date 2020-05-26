@@ -1,0 +1,82 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.header {
+    height: 100px;
+    width:100%;
+    padding:20px;
+    background-color: rgb(214, 95, 125);
+    color:rgb(6, 108, 148);
+    font-weight:bold;
+}
+
+.addBtn {
+    margin-top:50px;
+}
+.main {
+    padding-top: 50px;
+    background-color: rgb(168, 225, 240);
+}
+#ulist  {
+    margin:50px;
+    padding: 50px;  
+    
+    }
+.item {
+    padding: 10px;
+    margin:10px;
+    list-style: none;
+    border:1px solid rgb(214, 95, 125);
+    border-radius: 40px;
+}
+.trash {
+    font-size: 20px;
+    float :right;
+    padding-right:7px;
+}
+.trash:hover {
+    color: rgb(214, 95, 125);
+}
+.circle {
+    float:left;
+    padding-left:7px;
+    padding-top:3px;
+    font-size:20px;
+    content: 
+
+}
+.circle:hover {
+     color:  rgb(214, 95, 125);;
+
+}
+
+}
+/*ul li.checked {
+    background: rgb(209, 154, 180);
+    color: #fff;
+    text-decoration: line-through;
+  }
+ul li.checked::before {
+    content:url(checked.png)
+    size:10px;
+}*/
+
+.checked-circle {
+    float:left;
+    padding-left:7px;
+    padding-top:3px;
+    font-size:20px;
+}
+.not-checked {
+    display:none;
+}
+
+priority {
+    float:right;
+    margin-right: 350px;
+    margin-top: -90px;
+    
+}
+
